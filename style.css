@@ -1,0 +1,46 @@
+html {
+    padding: 0%;
+}
+
+body {
+    padding: 0%;
+    margin: 0%;
+    background: url(https://www.toptal.com/designers/subtlepatterns/uploads/topography.png);
+    font-family: consolas, courier;
+}
+
+main{
+    padding: 10%;
+
+}
+
+.topnav {
+    background-color: #333333;
+    padding-top: 5px  
+}
+
+.pink {
+    color: #ff0099;
+}
+
+h1 {
+    font-family: 'Signika Negative', sans-serif;
+    
+}
+.center {
+    text-align: center;
+}
+
+.topnav-right { 
+    float: right;
+    vertical-align:middle;
+    padding-right: 10%;
+    padding-top: 5px;
+    
+}
+
+.lens {
+    padding-left: 10%;
+    padding-bottom: 5px;
+
+}
